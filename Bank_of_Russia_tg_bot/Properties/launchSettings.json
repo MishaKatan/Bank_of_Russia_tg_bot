@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bank_of_Russia_tg_bot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
